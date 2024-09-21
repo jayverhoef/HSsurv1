@@ -1,8 +1,8 @@
 #github cloud commits
 cd '/mnt/ExtraDrive1/Work/desktop_data/2022_papers/HSsurv'
 git add .
-git commit -a -m 'revisions by Jay 21 Sept'
-git push transfer main
+git commit -a -m 'first commit'
+git push origin main
 git pull origin main
 
 
