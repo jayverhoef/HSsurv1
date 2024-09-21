@@ -1,0 +1,16 @@
+#github cloud commits
+cd '/mnt/ExtraDrive1/Work/desktop_data/2022_papers/HSsurv'
+git add .
+git commit -a -m 'revisions by Jay 21 Sept'
+git push transfer main
+git pull origin main
+
+
+#original setup
+cd '/mnt/ExtraDrive1/Work/desktop_data/2022_papers/HSsurv1'
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jayverhoef/HSsurv1.git
+git push -u origin main
