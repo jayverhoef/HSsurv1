@@ -1,13 +1,13 @@
 
 
 # HSsurv1
-## A Github Repository in support of publication, "An Integrated Data Model to Estimate Abundance from Counts with Temporal Dependence and Imperfect Detection." 
+## A Github Repository in support of manuscript submission, "An Integrated Data Model to Estimate Abundance from Counts with Temporal Dependence and Imperfect Detection." 
 
-####Jay M. Ver Hoef<sup>a</sup>, Brett T. McClintock<sup>a</sup>, Peter L. Boveng<sup>a</sup>, Josh M. London<sup>a</sup>, John K. Jansen<sup>a</sup>
+#### Jay M. Ver Hoef<sup>a</sup>, Brett T. McClintock<sup>a</sup>, Peter L. Boveng<sup>a</sup>, Josh M. London<sup>a</sup>, John K. Jansen<sup>a</sup>
 
 #### <sup>a</sup>NOAA Fisheries (NMFS) Alaska Fisheries Science Center, Marine Mammal Laboratory, Seattle, WA
 
-As a scientific work, and in keeping with common scientific practicies, I kindly request that you cite my research project and applicable publications if you use my work(s) or data in your publications or presentations. Additionally, I strongly encourage and welcome collaboration to promote use of these data in the proper context and scope.  The publication is currently being submitted for publication:
+As a scientific work, and in keeping with common scientific practicies, I kindly request that you cite my research project and applicable publications if you use my work(s) or data in your publications or presentations. Additionally, I strongly encourage and welcome collaboration to promote use of these data in the proper context and scope.  A manuscript that uses these data and scripts is currently submitted for publication:
 
 
 This is not an R package.  The data can be found in /inst/raw data and the scripts for the analysis can be found in /inst/scripts.
