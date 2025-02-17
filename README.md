@@ -7,6 +7,8 @@
 
 #### <sup>a</sup>NOAA Fisheries (NMFS) Alaska Fisheries Science Center, Marine Mammal Laboratory, Seattle, WA
 
+## Ecology 2024 In press.
+
 As a scientific work, and in keeping with common scientific practicies, I kindly request that you cite my research project and applicable publications if you use my work(s) or data in your publications or presentations. Additionally, I strongly encourage and welcome collaboration to promote use of these data in the proper context and scope.  A manuscript that uses these data and scripts is currently submitted for publication:
 
 
